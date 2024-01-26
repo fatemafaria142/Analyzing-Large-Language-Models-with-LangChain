@@ -28,3 +28,9 @@
   <li>The model can remember and refer to previous questions and answers in the conversation.</li>
  </ul>
 
+  <h2>Agent</h2>
+ <ul>
+  <li>Takes the LangChain application to the next level.</li>
+  <li>Utilizes LLM to decide whether to fetch data for answering questions.</li>
+  <li>Adds a layer of intelligence to dynamically determine the need for external data retrieval.</li>
+  </ul>
