@@ -1,4 +1,18 @@
-# Analyzing-Large-Language-Models-with-LangChain-Retrieval
+  <h1>Analyzing-Large-Language-Models-with-LangChain</h1>
+  <ul>
+    <li><strong>LangChain Templates:</strong> A collection of easily deployable reference architectures for a wide variety of tasks.</li>
+    <li><strong>LangServe:</strong> A library for deploying LangChain chains as a REST API.</li>
+    <li><strong>LangSmith:</strong> A developer platform that lets you debug, test, evaluate, and monitor chains built on any LLM framework and seamlessly integrates with LangChain.</li>
+  </ul>
+  
+  <h2>LLM Chain</h2>
+
+ <ul>
+    <li>Simplest form of LangChain application.</li>
+    <li>Relies on information in the prompt template to generate responses.</li>
+    <li>Limited by the information provided in the prompt.</li>
+  </ul>
+
 
   <h2>Retrieval Chain</h2>
 <ul>
