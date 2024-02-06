@@ -1,8 +1,7 @@
   <h1>Analyzing-Large-Language-Models-with-LangChain</h1>
   <ul>
     <li><strong>LangChain Templates:</strong> A collection of easily deployable reference architectures for a wide variety of tasks.</li>
-    <li><strong>LangServe:</strong> A library for deploying LangChain chains as a REST API.</li>
-    <li><strong>LangSmith:</strong> A developer platform that lets you debug, test, evaluate, and monitor chains built on any LLM framework and seamlessly integrates with LangChain.</li>
+  
   </ul>
   
   <h2>LLM Chain</h2>
